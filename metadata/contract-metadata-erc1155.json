@@ -1,0 +1,8 @@
+{
+  "name": "ERZ",
+  "description": "ERZ NFT",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/erz.png",
+  "external_link": "https://github.com/erzonline/erz-nft/",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x75Bc7Fb15FCe44bC712547fD01e5457A375A8094"
+}

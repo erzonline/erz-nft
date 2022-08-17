@@ -1,0 +1,19 @@
+{
+  "name": "ERZ Bot Bee",
+  "description": "ERZ Bot #0",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/0.jpg",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Bee"
+    },
+    {
+      "trait_type": "Engine",
+      "value": "66AC9F"
+    },
+    {
+      "trait_type": "Value",
+      "value": 1000
+    }
+  ]
+}
