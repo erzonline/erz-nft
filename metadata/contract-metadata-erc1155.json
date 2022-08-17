@@ -4,5 +4,15 @@
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/erz.png",
   "external_link": "https://github.com/erzonline/erz-nft/",
   "seller_fee_basis_points": 100,
-  "fee_recipient": "0x75Bc7Fb15FCe44bC712547fD01e5457A375A8094"
+  "fee_recipient": "0x75Bc7Fb15FCe44bC712547fD01e5457A375A8094",
+  "collection": {
+    "banner_image_url": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/erz.png",
+    "description": "ERZ NFT",
+    "discord_url": "https://discord.gg/erzonline",
+    "display_data": {
+      "card_display_style": "contain"
+    },
+    "image_url": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/erz.png",
+    "name": "ERZ"
+  }
 }
