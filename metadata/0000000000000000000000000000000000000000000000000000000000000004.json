@@ -1,7 +1,7 @@
 {
   "name": "Grunge",
   "description": "Diggeroid with ultra hard boring surfaces.",
-  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/4.png",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/4.png",
   "attributes": [
     {
       "trait_type": "Speed",

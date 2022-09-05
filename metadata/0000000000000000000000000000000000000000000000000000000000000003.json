@@ -1,7 +1,7 @@
 {
   "name": "Medic",
   "description": "Diggeroid with triple energy shield.",
-  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/3.png",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/3.png",
   "attributes": [
     {
       "trait_type": "Speed",
