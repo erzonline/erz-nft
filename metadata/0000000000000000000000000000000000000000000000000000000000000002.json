@@ -1,0 +1,23 @@
+{
+  "name": "Gold",
+  "description": "Most efficient diggeroid.",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/main/metadata/2.png",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "100"
+    },
+    {
+      "trait_type": "Mining",
+      "value": "120"
+    },
+    {
+      "trait_type": "HP",
+      "value": "100"
+    },
+    {
+      "trait_type": "Digging Speed",
+      "value": "100"
+    }
+  ]
+}
