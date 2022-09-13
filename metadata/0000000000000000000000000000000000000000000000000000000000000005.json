@@ -1,0 +1,23 @@
+{
+  "name": "Grunge #2",
+  "description": "Diggeroid with ultra hard boring surfaces.\n Speed: 100;\n Mining: 100; \n HP: 100; \n Digging Speed: 200 \n",
+  "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/5.gif",
+  "attributes": [
+    {
+      "trait_type": "Speed",
+      "value": "100"
+    },
+    {
+      "trait_type": "Mining",
+      "value": "100"
+    },
+    {
+      "trait_type": "HP",
+      "value": "100"
+    },
+    {
+      "trait_type": "Digging Speed",
+      "value": "200"
+    }
+  ]
+}
