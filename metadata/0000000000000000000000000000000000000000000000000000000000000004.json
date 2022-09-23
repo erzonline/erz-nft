@@ -1,6 +1,7 @@
 {
   "name": "Grunge",
   "description": "Diggeroid with ultra hard boring surfaces.\n Speed: 100;\n Mining: 100; \n HP: 100; \n Digging Speed: 200 \n",
+  "color": "#55ff55",
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/4.gif",
   "animation_url": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/4.mp4",
   "animation": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/4.mp4",

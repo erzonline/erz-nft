@@ -1,6 +1,7 @@
 {
   "name": "Dinamo",
   "description": "Fastest diggeroid. Light alloy and fast jets.",
+  "color": "#00ff00",
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/1.png",
   "attributes": [
     {

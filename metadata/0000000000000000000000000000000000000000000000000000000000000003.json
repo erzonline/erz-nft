@@ -1,6 +1,7 @@
 {
   "name": "Medic",
   "description": "Diggeroid with triple energy shield.",
+  "color": "#00ffff",
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/3.png",
   "attributes": [
     {

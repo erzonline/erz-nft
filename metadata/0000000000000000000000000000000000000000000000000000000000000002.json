@@ -1,6 +1,7 @@
 {
   "name": "Gold",
   "description": "Most efficient diggeroid.",
+  "color": "#ffff00",
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/2.png",
   "attributes": [
     {
