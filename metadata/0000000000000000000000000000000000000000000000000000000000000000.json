@@ -2,18 +2,23 @@
   "name": "ERZ Bot Bee",
   "description": "ERZ Bot #0",
   "image": "https://raw.githubusercontent.com/erzonline/erz-nft/goerli/metadata/0.jpg",
+  "color": "#001122",
   "attributes": [
     {
-      "trait_type": "Color",
-      "value": "Bee"
+      "trait_type": "Speed",
+      "value": "5"
     },
     {
-      "trait_type": "Engine",
-      "value": "66AC9F"
+      "trait_type": "Mining",
+      "value": "0"
     },
     {
-      "trait_type": "Value",
-      "value": 1000
+      "trait_type": "HP",
+      "value": "0"
+    },
+    {
+      "trait_type": "Digging Speed",
+      "value": "0"
     }
   ]
 }

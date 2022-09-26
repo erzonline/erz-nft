@@ -6,19 +6,19 @@
   "attributes": [
     {
       "trait_type": "Speed",
-      "value": "100"
+      "value": "5"
     },
     {
       "trait_type": "Mining",
-      "value": "100"
+      "value": "0"
     },
     {
       "trait_type": "HP",
-      "value": "300"
+      "value": "3"
     },
     {
       "trait_type": "Digging Speed",
-      "value": "100"
+      "value": "0"
     }
   ]
 }
